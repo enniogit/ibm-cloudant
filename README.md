@@ -40,7 +40,7 @@ helm package ibm-cloudant-dev
 helm install ibm-cloudant-dev
 ```
 
-### Résultat :
+### Result :
 
 ```
 ** Cloudant may take a few minutes to become available. Please be patient. **
