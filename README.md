@@ -31,7 +31,7 @@ Then [configure your helm command line interface](https://www.ibm.com/support/kn
 git clone https://github.com/maxgfr/ibm-cloudant.git
 ```
 
-## 3. Usehelm to package and install cloudant
+## 3. Use helm to package and install cloudant
 
 
 ```shell
