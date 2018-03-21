@@ -1,6 +1,6 @@
 # IBM Cloudant 1.0.3 Helm Chart
   
-## 1. Configure the `kubernetes` command line interface for IBM® Cloud private®
+## 1. Configure `kubernetes` command line interface for IBM® Cloud private®
 
 To access the kubernetes `apiserver`, you will need an authorization token and the `kubectl` as the access client. In IBM® Cloud private®, authorization tokens can be requested via the dashboard or the REST API.
 
@@ -31,7 +31,7 @@ Then [configure your helm command line interface](https://www.ibm.com/support/kn
 git clone https://github.com/maxgfr/ibm-cloudant.git
 ```
 
-## 3. Use helm to package and install cloudant
+## 3. Use `helm` to package and install `cloudant`
 
 
 ```shell
